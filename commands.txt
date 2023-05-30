@@ -1,0 +1,3 @@
+gui standalone Exe file
+1. install pyinstaller
+2. in terminal "pyinstaller --onefile --windowed --clean filename"
